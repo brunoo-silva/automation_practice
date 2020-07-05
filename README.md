@@ -1,7 +1,7 @@
 ## Nome Projeto: Automation_Practice
 Repositório do projeto automation_practice com cucumber, capybara e ruby
 
-** Foi realizado cenário em BDD, adicionando um novo usuário a cada execução;
+* Foi realizado cenário em BDD, adicionando um novo usuário a cada execução;
 **Foi realizado cenário em BDD, compra de produtos, selecionando quantidade, tamanho, cor e forma de pagamento;
 **Foi realizado cenário em BDD, inserido produto(s) no carrinho de compras e depois retirado.
 
