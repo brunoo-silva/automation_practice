@@ -1,0 +1,12 @@
+---
+nav_chrome: -p chrome -p json -p pretty 
+nav_firefox: -p firefox -p json -p pretty 
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+pretty: --format pretty
+json: --format json -o "log/report.json"
+
+
+
+
+
